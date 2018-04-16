@@ -14,7 +14,7 @@ Output:
 
 ## Commenting the code
 
-You can comment a line of code by adding "\\" at the beginning of the code or you can comment a block of code my placing it in "/*    */" 
+You can comment a line of code by adding `\\` at the beginning of the code or you can comment a block of code my placing it in `\*    *\` 
 
 For example
 
